@@ -20,8 +20,8 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
-
 <body>
+
   <div>
     <div class="row">
       <div class="col col-6 homebtn">
@@ -68,29 +68,29 @@
   <div class="container">
     <br>
     <div class="row">
-      <!-- left side -->
+      
       <div class="col col-12 col-md-8 divbdy">
         <br>
-        <h1>Max Temperature</h1>
+        <h1>Cloudiness</h1>
         <hr>
-        <a href="MaxTemperature.html"><img src="images/Fig1.png" alt="Latitude vs. Temperature"></a>
+        <a href="Cloudiness.html"><img src="images/Fig3.png" alt="Latitude vs. Cloudiness"></a>
 
         <p>
-        ADD Details
+          Correlation between Cloudiness........
         </p>
         <hr>
       </div>
-
+    
       <div class="col col-12 col-md-4 divbdy">
         <br>
         <h2>Visualizations</h2>
         <hr>
         <div class='row'>
           <div class="col col-3 col-md-6">
-            <a href="MaxTemperature.html"><img src="images/Fig1.png" alt="Latitude vs. Temperature" id="imgsel"></a>
+            <a href="MaxTemperature.html"><img src="images/Fig1.png" alt="Latitude vs. Temperature"></a>
           </div>
           <div class="col col-3 col-md-6">
-            <a href="Humidity.html"><img src="images/Fig2.png" alt="Latitude vs. Humidity"></a>
+            <a href="Humidity.html"><img src="images/Fig2.png" alt="Latitude vs. Humidity" id="imgsel"></a>
           </div>
           <div class="col col-3 col-md-6">
             <a href="Cloudiness.html"><img src="images/Fig3.png" alt="Latitude vs. Cloudiness"></a>
